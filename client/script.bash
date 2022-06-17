@@ -6,4 +6,4 @@ curl -H 'Content-Type: application/json' -X POST \
         "smer":"RI",
         "predmeti":[{"ime":"programiranje","espb":"6"},
                     {"ime":"engleski","espb":"2"}]}' \
-    http://localhost:8081/users
+    http://localhost:8232/users

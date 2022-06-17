@@ -1,0 +1,4 @@
+1. docker build -t server . - kreiramo image
+2. docker images - proveravamo/listamo kreirane docker image
+3. docker run -d -p 8232:8232 server - pokrecemo kontejner sa server image-om
+4. docker ps - listamo sve kontejnere 
